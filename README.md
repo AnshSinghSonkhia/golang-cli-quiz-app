@@ -1,5 +1,11 @@
 # Golang CLI Quiz App
 
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV-Data-green)
+![CLI](https://img.shields.io/badge/CLI-Command%20Line-blue)
+![Concurrency](https://img.shields.io/badge/Concurrency-Goroutines-yellow)
+![Channels](https://img.shields.io/badge/Channels-Go%20Channels-orange)
+
 A simple command-line quiz application written in Go. This app reads math problems from a CSV file, randomizes the questions, and quizzes the user with a configurable timer. It's a great project for learning Go basics, file I/O, concurrency, and command-line flag parsing.
 
 ## Features
